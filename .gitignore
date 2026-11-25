@@ -1,0 +1,11 @@
+# u-suzy office joke entry — local run artefacts, never committed
+/output/
+output-entry-local.txt
+__pycache__/
+*.pyc
+.pytest_cache/
+u-suzy-bundle.tar.gz
+u-suzy-check.log
+.DS_Store
+# scratch notes for this one-line entry only
+scratch-u-suzy.md
